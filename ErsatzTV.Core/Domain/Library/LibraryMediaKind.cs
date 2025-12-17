@@ -8,5 +8,7 @@ public enum LibraryMediaKind
     OtherVideos = 4,
     Songs = 5,
     Images = 6,
-    RemoteStreams = 7
+    RemoteStreams = 7,
+    Test = 8,
+    Test = 9
 }
