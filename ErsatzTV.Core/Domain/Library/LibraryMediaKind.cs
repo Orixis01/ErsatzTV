@@ -10,5 +10,5 @@ public enum LibraryMediaKind
     Images = 6,
     RemoteStreams = 7,
     Test = 8,
-    Test = 9
+    Test2 = 9
 }
